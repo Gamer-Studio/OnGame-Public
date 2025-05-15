@@ -108,7 +108,7 @@ Player 자식 오브젝트인 Character에 rigidbody가 붙어있기 때문에 P
 기대한 동작 (Expected behavior)
 스크립트에서 연결한 해상도 설정 텍스트가 보이지 않음
 
-Screenshots
+스크린샷
 
 ![image](https://github.com/user-attachments/assets/38452a49-3415-4654-ab68-ddd62460f421)
 
