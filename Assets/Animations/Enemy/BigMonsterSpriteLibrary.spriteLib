@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ogre_idle_0
+      m_Hash: 789360529
+      m_Sprite: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+    - m_Name: ogre_idle_1
+      m_Hash: 403414791
+      m_Sprite: {fileID: 21300000, guid: 42993bc1b4ee009479a8da1612f5a36a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 42993bc1b4ee009479a8da1612f5a36a, type: 3}
+    - m_Name: ogre_idle_2
+      m_Hash: 16961213
+      m_Sprite: {fileID: 21300000, guid: d32a1186f2821bf4a979258a7f09a093, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d32a1186f2821bf4a979258a7f09a093, type: 3}
+    - m_Name: ogre_idle_3
+      m_Hash: 906362411
+      m_Sprite: {fileID: 21300000, guid: 83d54bd472d63f74fa239a7f91817ab2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 83d54bd472d63f74fa239a7f91817ab2, type: 3}
+    - m_Name: zombie_big_idle_0
+      m_Hash: 615577627
+      m_Sprite: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+    - m_Name: zombie_big_idle_1
+      m_Hash: 330811533
+      m_Sprite: {fileID: 21300000, guid: d3ac1f7c1556ee143b38a5c21f933f80, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d3ac1f7c1556ee143b38a5c21f933f80, type: 3}
+    - m_Name: zombie_big_idle_2
+      m_Hash: 180263223
+      m_Sprite: {fileID: 21300000, guid: 9d5ed09e4a413e14a9e4cd5dbb65b9e0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9d5ed09e4a413e14a9e4cd5dbb65b9e0, type: 3}
+    - m_Name: zombie_big_idle_3
+      m_Hash: 1035577761
+      m_Sprite: {fileID: 21300000, guid: 33aa89b008edb6241b60b43db0df32fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 33aa89b008edb6241b60b43db0df32fa, type: 3}
+    - m_Name: demon_big_idle_0
+      m_Hash: 97352646
+      m_Sprite: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+    - m_Name: demon_big_idle_1
+      m_Hash: 852118352
+      m_Sprite: {fileID: 21300000, guid: bd711c802e4024e41b1aaf17e3081ac2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bd711c802e4024e41b1aaf17e3081ac2, type: 3}
+    - m_Name: demon_big_idle_2
+      m_Hash: 734206698
+      m_Sprite: {fileID: 21300000, guid: 770213b84e7db2447a19fa29cf5d95f0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 770213b84e7db2447a19fa29cf5d95f0, type: 3}
+    - m_Name: demon_big_idle_3
+      m_Hash: 482617980
+      m_Sprite: {fileID: 21300000, guid: 651fb1eb3fe54ad488bbc394d567f346, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 651fb1eb3fe54ad488bbc394d567f346, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 12
+  - m_Name: Move
+    m_Hash: 252483654
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ogre_move_0
+      m_Hash: 1021930349
+      m_Sprite: {fileID: 21300000, guid: 271f88fc88e9ec04793ccf05c6e20b86, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 271f88fc88e9ec04793ccf05c6e20b86, type: 3}
+    - m_Name: ogre_move_1
+      m_Hash: 200170491
+      m_Sprite: {fileID: 21300000, guid: f0b1a8a4a31271440a721f8299c0cc55, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f0b1a8a4a31271440a721f8299c0cc55, type: 3}
+    - m_Name: ogre_move_2
+      m_Hash: 317131329
+      m_Sprite: {fileID: 21300000, guid: c68f7f2f420f74f448a4322a363f7ef4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c68f7f2f420f74f448a4322a363f7ef4, type: 3}
+    - m_Name: ogre_move_3
+      m_Hash: 635452119
+      m_Sprite: {fileID: 21300000, guid: 36ef2407f9b8b6c4d8671830db7480ad, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 36ef2407f9b8b6c4d8671830db7480ad, type: 3}
+    - m_Name: zombie_big_move_0
+      m_Hash: 928333031
+      m_Sprite: {fileID: 21300000, guid: 69b0907f66e29824784836cd95812f67, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 69b0907f66e29824784836cd95812f67, type: 3}
+    - m_Name: zombie_big_move_1
+      m_Hash: 5377137
+      m_Sprite: {fileID: 21300000, guid: 288a8341dabee1a43b85d935b99dbfe0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 288a8341dabee1a43b85d935b99dbfe0, type: 3}
+    - m_Name: zombie_big_move_2
+      m_Hash: 425418187
+      m_Sprite: {fileID: 21300000, guid: 20fbc665b35260346b41db3cd08f3f34, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 20fbc665b35260346b41db3cd08f3f34, type: 3}
+    - m_Name: zombie_big_move_3
+      m_Hash: 777809245
+      m_Sprite: {fileID: 21300000, guid: aa562423a6095c84ba0d2d87317ff7f8, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: aa562423a6095c84ba0d2d87317ff7f8, type: 3}
+    - m_Name: demon_big_move_0
+      m_Hash: 371769146
+      m_Sprite: {fileID: 21300000, guid: 7439913bbc7f93c448d78e702ceaa760, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 7439913bbc7f93c448d78e702ceaa760, type: 3}
+    - m_Name: demon_big_move_1
+      m_Hash: 556765100
+      m_Sprite: {fileID: 21300000, guid: d9739fb13893c41468af2adbefa95500, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d9739fb13893c41468af2adbefa95500, type: 3}
+    - m_Name: demon_big_move_2
+      m_Hash: 942071318
+      m_Sprite: {fileID: 21300000, guid: 4704662651ae27f4d81af97702dd97b5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 4704662651ae27f4d81af97702dd97b5, type: 3}
+    - m_Name: demon_big_move_3
+      m_Hash: 253881984
+      m_Sprite: {fileID: 21300000, guid: 848504d6b512107409f07bc90b7d0d8f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 848504d6b512107409f07bc90b7d0d8f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 12
+  - m_Name: Damage
+    m_Hash: 375673178
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ogre_damage_0
+      m_Hash: 471431904
+      m_Sprite: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+    - m_Name: ogre_damage_1
+      m_Hash: 723405430
+      m_Sprite: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ebc292645eac04d43a6c537f9c7cf58d, type: 3}
+    - m_Name: zombie_big_damage_0
+      m_Hash: 679134666
+      m_Sprite: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+    - m_Name: zombie_big_damage_1
+      m_Hash: 528348508
+      m_Sprite: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 46e8a708a6ca6084293a5404d315e51c, type: 3}
+    - m_Name: demon_big_damage_0
+      m_Hash: 677236095
+      m_Sprite: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+    - m_Name: demon_big_damage_1
+      m_Hash: 526056937
+      m_Sprite: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 89d063f4f5a7461489acbe857dc8ef70, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 6
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638826761063182737
+  m_Version: 1

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Vase
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 599347530, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: 1561726318, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -1517800260, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: 2016026995, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -805625206, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -951360763, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -2058575498, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -999275117, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: 931622717, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: 1949693688, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -702996851, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -963331353, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: 2089589191, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -1110132473, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -1968096347, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  - {fileID: -1899075813, guid: 56b771cc48eb2244f9e67f716c682a2b, type: 3}
+  m_MinSpeed: 15
+  m_MaxSpeed: 15
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

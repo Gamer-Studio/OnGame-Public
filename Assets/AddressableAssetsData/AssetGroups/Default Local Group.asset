@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e8010971dede07941b728c884e07293e
+  m_SerializeEntries:
+  - m_GUID: f176ce2967148a6459165070351f3ab3
+    m_Address: Assets/Data/Items/testBlueCoin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5fb881f7d8549a44b674cd51a08998c
+    m_Address: Assets/Data/Items/testPotion.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e4e488a65ced04fad010ad2e62dead
+    m_Address: Assets/Data/Items/testWeaponData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbc46d1aacb9e4948b40d47d2093e4ab
+    m_Address: Assets/Data/Items/testCoin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: df59f6103065dab488f807733cd87b90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3982551271897904687858d2ce99ec4e, type: 2}
+    - {fileID: 11400000, guid: 7bee2030e678d4e41bfb6060ad90daf3, type: 2}

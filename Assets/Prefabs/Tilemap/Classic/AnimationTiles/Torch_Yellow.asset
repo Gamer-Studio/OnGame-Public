@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Torch_Yellow
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 257666453, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: 1336459981, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: -718542655, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: 97036637, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: -1303164046, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: 1211630297, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: 632803492, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  - {fileID: 410433329, guid: 8b75ef03b0ad4a3429345db51828e523, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

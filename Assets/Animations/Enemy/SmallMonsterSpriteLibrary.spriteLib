@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: goblin_idle_0
+      m_Hash: 573702538
+      m_Sprite: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+    - m_Name: goblin_idle_1
+      m_Hash: 355807516
+      m_Sprite: {fileID: 21300000, guid: 31392d1ca667695479ae99413d4e43dd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 31392d1ca667695479ae99413d4e43dd, type: 3}
+    - m_Name: goblin_idle_2
+      m_Hash: 205283494
+      m_Sprite: {fileID: 21300000, guid: 35c57467149165b43828475321790eaf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 35c57467149165b43828475321790eaf, type: 3}
+    - m_Name: goblin_idle_3
+      m_Hash: 993742896
+      m_Sprite: {fileID: 21300000, guid: ce5f0567731e86349a3ab24277aaadd1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ce5f0567731e86349a3ab24277aaadd1, type: 3}
+    - m_Name: zombie_tiny_idle_0
+      m_Hash: 451929572
+      m_Sprite: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+    - m_Name: zombie_tiny_idle_1
+      m_Hash: 770233714
+      m_Sprite: {fileID: 21300000, guid: 3768abd0b39b73c4899737c71c695a91, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3768abd0b39b73c4899737c71c695a91, type: 3}
+    - m_Name: zombie_tiny_idle_2
+      m_Hash: 887194824
+      m_Sprite: {fileID: 21300000, guid: 6c0cfe61accee2f46b20594d1c2a6ba2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6c0cfe61accee2f46b20594d1c2a6ba2, type: 3}
+    - m_Name: zombie_tiny_idle_3
+      m_Hash: 65451102
+      m_Sprite: {fileID: 21300000, guid: 98e04c78b7625df4a910174e6a8b799f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 98e04c78b7625df4a910174e6a8b799f, type: 3}
+    - m_Name: imp_idle_0
+      m_Hash: 1036424873
+      m_Sprite: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+    - m_Name: imp_idle_1
+      m_Hash: 180463167
+      m_Sprite: {fileID: 21300000, guid: 3ac6a2168b1e8cd4c85243fd1e68f1dd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3ac6a2168b1e8cd4c85243fd1e68f1dd, type: 3}
+    - m_Name: imp_idle_2
+      m_Hash: 331937669
+      m_Sprite: {fileID: 21300000, guid: c52a88f3e300eaa42a7fad82cdf2e200, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c52a88f3e300eaa42a7fad82cdf2e200, type: 3}
+    - m_Name: imp_idle_3
+      m_Hash: 617596691
+      m_Sprite: {fileID: 21300000, guid: 3200ca321aebc084f95694b7156c538f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3200ca321aebc084f95694b7156c538f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 12
+  - m_Name: Move
+    m_Hash: 252483654
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: goblin_move_0
+      m_Hash: 836224374
+      m_Sprite: {fileID: 21300000, guid: 8cd84c060287a7b4888448d5cddc7bdc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 8cd84c060287a7b4888448d5cddc7bdc, type: 3}
+    - m_Name: goblin_move_1
+      m_Hash: 114357728
+      m_Sprite: {fileID: 21300000, guid: 38899bf7b66fb7549826fd89793cfbcf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 38899bf7b66fb7549826fd89793cfbcf, type: 3}
+    - m_Name: goblin_move_2
+      m_Hash: 534357082
+      m_Sprite: {fileID: 21300000, guid: f6f5ac2f034d90549bd970d2371df037, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f6f5ac2f034d90549bd970d2371df037, type: 3}
+    - m_Name: goblin_move_3
+      m_Hash: 685675724
+      m_Sprite: {fileID: 21300000, guid: d73cb0b4d42ad564aa0a4af8b5e42fdf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d73cb0b4d42ad564aa0a4af8b5e42fdf, type: 3}
+    - m_Name: zombie_tiny_move_0
+      m_Hash: 151658776
+      m_Sprite: {fileID: 21300000, guid: 5b550d0e2f905e7478eb39f6682aad34, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5b550d0e2f905e7478eb39f6682aad34, type: 3}
+    - m_Name: zombie_tiny_move_1
+      m_Hash: 1041043854
+      m_Sprite: {fileID: 21300000, guid: ca194721639877048974f0a7b58b995a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ca194721639877048974f0a7b58b995a, type: 3}
+    - m_Name: zombie_tiny_move_2
+      m_Hash: 654590004
+      m_Sprite: {fileID: 21300000, guid: 0e3b1fba50b91ba4095275a3b3295046, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0e3b1fba50b91ba4095275a3b3295046, type: 3}
+    - m_Name: zombie_tiny_move_3
+      m_Hash: 268660898
+      m_Sprite: {fileID: 21300000, guid: 6ad1cf085568403498ad1823988332ab, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6ad1cf085568403498ad1823988332ab, type: 3}
+    - m_Name: imp_move_0
+      m_Hash: 774066773
+      m_Sprite: {fileID: 21300000, guid: e23f42fe87f7b944bbe9f1810fc82651, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e23f42fe87f7b944bbe9f1810fc82651, type: 3}
+    - m_Name: imp_move_1
+      m_Hash: 421814979
+      m_Sprite: {fileID: 21300000, guid: c062f4531f1b90744b999a00d303ee83, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c062f4531f1b90744b999a00d303ee83, type: 3}
+    - m_Name: imp_move_2
+      m_Hash: 2962297
+      m_Sprite: {fileID: 21300000, guid: 7ea760a32c60aa84584eb6d31f0d8bde, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 7ea760a32c60aa84584eb6d31f0d8bde, type: 3}
+    - m_Name: imp_move_3
+      m_Hash: 925500399
+      m_Sprite: {fileID: 21300000, guid: cf0714ad2679c104099f30738fce9a9b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: cf0714ad2679c104099f30738fce9a9b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 12
+  - m_Name: Damage
+    m_Hash: 375673178
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: goblin_damage_0
+      m_Hash: 71381675
+      m_Sprite: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+    - m_Name: goblin_damage_1
+      m_Hash: 860226109
+      m_Sprite: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9bd12aa0f6eba2b488a2cab28ced7bd4, type: 3}
+    - m_Name: zombie_tiny_damage_0
+      m_Hash: 408447550
+      m_Sprite: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+    - m_Name: zombie_tiny_damage_1
+      m_Hash: 794778280
+      m_Sprite: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 54385faca2ad25e4489abd022c5a4358, type: 3}
+    - m_Name: imp_damage_0
+      m_Hash: 344153305
+      m_Sprite: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+    - m_Name: imp_damage_1
+      m_Hash: 595881039
+      m_Sprite: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0fc6bc1184409e048bd22da5c4e73b98, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 6
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638826772639892268
+  m_Version: 1

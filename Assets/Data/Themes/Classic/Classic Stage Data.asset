@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76217584c2c4487b994ba4596915eacd, type: 3}
+  m_Name: Classic Stage Data
+  m_EditorClassIdentifier: 
+  roomTable:
+  - {fileID: 11400000, guid: 9cc560b1a8f198949afb6091b3af1657, type: 2}
+  verticalDoor:
+  - {fileID: 11400000, guid: a51876b35d5057b4abb49f60f1e06ee6, type: 2}
+  - {fileID: 11400000, guid: 72962e12b44ba8843b7844966d9fda95, type: 2}
+  - {fileID: 11400000, guid: 72962e12b44ba8843b7844966d9fda95, type: 2}
+  - {fileID: 11400000, guid: d7a4fce4928a3024cad2e7fd1abf4a06, type: 2}
+  sideDoor:
+  - {fileID: 11400000, guid: c77fbb91831ad854690c6eb456b30f49, type: 2}
+  - {fileID: 11400000, guid: 72962e12b44ba8843b7844966d9fda95, type: 2}
+  - {fileID: 11400000, guid: 72962e12b44ba8843b7844966d9fda95, type: 2}
+  - {fileID: 11400000, guid: 8a56ee0f262262e4f88741bf60e180fe, type: 2}
+  startRoom: {fileID: 11400000, guid: 074a0d8f55b52404eb215f8d58526357, type: 2}
+  endRoom: {fileID: 0}
+  bossRoom: {fileID: 0}
+  tilemapMaterial: {fileID: 2100000, guid: 7358e28967ee2ec4087a79dfab6a544a, type: 2}
+  floorCount: 6
+  structureCount: 6
+  baseLayer: 0
+  doorLayer: 2
+  itemTable:
+  - {fileID: 11400000, guid: f176ce2967148a6459165070351f3ab3, type: 2}
+  battleRoomCount: 20
+  eventRoomCount: 0
+  shopRoomCount: 0
